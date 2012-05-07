@@ -1,0 +1,13 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\bin\Debug\OTPChat.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\bin\Debug\OTPChat.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\OTPChat.Form1.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\OTPChat.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\OTPChat.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\OTPChat\OTPChat\obj\x86\Debug\OTPChat.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\OTPChat\OTPChat\bin\Debug\OTPChat.exe.config
+C:\Users\Justin\Dropbox\projbak\OTPChat\OTPChat\bin\Debug\OTPChat.exe.config
+C:\Users\Justin\Dropbox\projbak\OTPChat\OTPChat\obj\x86\Debug\OTPChat.exe
+C:\Users\Justin\Dropbox\projbak\OTPChat\OTPChat\obj\x86\Debug\OTPChat.pdb
